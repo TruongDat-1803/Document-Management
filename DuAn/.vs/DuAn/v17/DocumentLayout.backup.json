@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\t\u00F4i\\project\\duan\\duan\\upload\\implement\\filebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|solutionrelative:upload\\implement\\filebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\t\u00F4i\\project\\duan\\duan\\upload\\implement\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|solutionrelative:upload\\implement\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\t\u00F4i\\project\\duan\\duan\\upload\\elasticsearchextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|solutionrelative:upload\\elasticsearchextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\t\u00F4i\\project\\duan\\duan\\upload\\upload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|solutionrelative:upload\\upload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\t\u00F4i\\project\\duan\\duan\\upload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|solutionrelative:upload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\t\u00F4i\\project\\duan\\duan\\upload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFB00DF-0944-4F85-8461-4BBDDC4A06AC}|Upload\\Upload.csproj|solutionrelative:upload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileBL.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\Implement\\FileBL.cs",
+              "RelativeDocumentMoniker": "Upload\\Implement\\FileBL.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\Implement\\FileBL.cs",
+              "RelativeToolTip": "Upload\\Implement\\FileBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:22:43.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\Implement\\UserBL.cs",
+              "RelativeDocumentMoniker": "Upload\\Implement\\UserBL.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\Implement\\UserBL.cs",
+              "RelativeToolTip": "Upload\\Implement\\UserBL.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:20:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Upload.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\Upload.csproj",
+              "RelativeDocumentMoniker": "Upload\\Upload.csproj",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\Upload.csproj",
+              "RelativeToolTip": "Upload\\Upload.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T02:28:23.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Upload\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\appsettings.Development.json",
+              "RelativeToolTip": "Upload\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T06:25:43.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\appsettings.json",
+              "RelativeDocumentMoniker": "Upload\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\appsettings.json",
+              "RelativeToolTip": "Upload\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T06:25:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElasticsearchExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\ElasticsearchExtensions.cs",
+              "RelativeDocumentMoniker": "Upload\\ElasticsearchExtensions.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00F4i\\Project\\DuAn\\DuAn\\Upload\\ElasticsearchExtensions.cs",
+              "RelativeToolTip": "Upload\\ElasticsearchExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:25:25.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
