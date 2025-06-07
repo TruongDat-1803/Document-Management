@@ -6655,11 +6655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\DuAn\\DuAn\\Upload\\Upload.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\Document-Management\\DuAn\\Upload\\Upload.csproj",
       "projectName": "Upload",
-      "projectPath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\DuAn\\DuAn\\Upload\\Upload.csproj",
+      "projectPath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\Document-Management\\DuAn\\Upload\\Upload.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\DuAn\\DuAn\\Upload\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\Document-Management\\DuAn\\Upload\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

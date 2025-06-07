@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L1dTuRSowy8=",
+  "dgSpecHash": "Cgqfe+eUQOU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\DuAn\\DuAn\\Upload\\Upload.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\Tôi\\Project\\Document-Management\\DuAn\\Upload\\Upload.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
